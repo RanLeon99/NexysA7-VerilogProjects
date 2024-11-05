@@ -15,5 +15,5 @@ To use this code with the Nexys A7 100T FPGA, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/NexysA7-100T-Verilog-Projects.git
+   git clone https://github.com/RanLeon99/NexysA7-VerilogProjects.git
    cd NexysA7-VerilogProjects
