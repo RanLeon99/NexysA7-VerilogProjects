@@ -1,0 +1,31 @@
+# Archivos de proyecto y carpetas temporales de Vivado
+*.log
+*.jou
+*.str
+*.str.gz
+*.xml
+*.xpr
+*.wcfg
+*.data
+*.backup*
+*.bin
+*.dcp
+*.ppr
+*.html
+*.rpx
+*.xise
+*.tcl
+*.lso
+*.lck
+
+# Directorios generados
+.cache/
+.hw/
+.sim/
+.xsim/
+.xpr/
+.xdb/
+.ip_user_files/
+.srcs/
+runs/
+scripts/
