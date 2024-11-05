@@ -4,11 +4,9 @@
 *.str
 *.str.gz
 *.xml
-*.xpr
 *.wcfg
 *.data
 *.backup*
-*.bin
 *.dcp
 *.ppr
 *.html
