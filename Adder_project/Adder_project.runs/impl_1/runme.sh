@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/rleon/OneDrive/Escritorio/Adder_project/Adder_project.runs/impl_1'
+HD_PWD='C:/Users/rleon/OneDrive/Escritorio/NexysA7-VerilogProjects/Adder_project/Adder_project.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
